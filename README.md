@@ -35,8 +35,8 @@
 ## GitHub-статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=q0tya&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=q0tya&layout=compact&theme=tokyonight&hide_border=true&locale=ru" alt="Top Languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=q0tya&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=q0tya&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
